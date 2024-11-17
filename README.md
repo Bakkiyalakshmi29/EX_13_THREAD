@@ -94,6 +94,7 @@ activity_main.xml
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## OUTPUT
-![384413860-8959ab62-39b5-4d81-b029-200b2f5ab089](https://github.com/user-attachments/assets/fe936ff8-f981-484b-83b7-6a6a1275df91)
+<img src="https://github.com/user-attachments/assets/fe936ff8-f981-484b-83b7-6a6a1275df91" width=200>
+
 ## RESULT
 The application is successfully displayed for thread synchronization concept with the help of clicking the button in Android Studio.
