@@ -1,4 +1,3 @@
-# Date: 07.11.2024
 # EX_13_THREAD
 ## AIM:
 To develop a thread synchronization concept with the help of clicking the button in Android Studio.
@@ -15,8 +14,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to print the text “optionmenu”.
-Developed by: Subalakshmi V
-Registeration Number : 212222040162
+Developed by: BAKKIYA LAKSHMI M
+Registeration Number : 212222220006
 ```
 mainActivity.java
 ```
